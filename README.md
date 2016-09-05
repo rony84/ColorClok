@@ -1,2 +1,2 @@
-# ColorClok
-Color Clok
+# ColorClock
+Color Clock
